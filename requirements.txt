@@ -1,0 +1,9 @@
+# Python 3.9 (64-bit, Windows) is required by the shipped .pyd modules.
+PyQt6==6.9.1
+pandas==2.3.2
+numpy==2.0.2
+openpyxl==3.1.5
+pyomo==6.9.4
+scikit-learn==1.6.1
+scikit-optimize==0.10.2
+matplotlib==3.9.4

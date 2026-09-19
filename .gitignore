@@ -1,0 +1,35 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Local virtual environments (do not upload)
+.venv/
+venv/
+env/
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Cython build leftovers / local compile script
+build/
+*.c
+*.py.bak
+convert2pyd.py
+
+# GAMS / BARON runtime files (keep folders via .gitkeep)
+results/*.gdx
+results/*.gms
+results/*.lst
+results/*.opt
+results/*.log
+results/temp file/*.xlsx
+results/temp file/*.xls
+results/temp file/~$*
